@@ -218,7 +218,7 @@ public class PersonControllerTest {
         mockMvc.perform(post("/api/v1/persons")
                         .contentType(MediaType.APPLICATION_JSON)
                         .content(requestJson))
-                .andExpect(status().isBadRequest()) // Zmieniono na 400
+                .andExpect(status().isBadRequest())
                 .andExpect(jsonPath("$.errorCode").value("IllegalArgument"))
                 .andExpect(jsonPath("$.errorsList[0].message").value("No facade found for class type: unknownType"))
                 .andExpect(jsonPath("$.errorsList[0].type").value("IllegalArgument"))
