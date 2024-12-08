@@ -1,0 +1,162 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: wiktor
+      changes:
+        - createTable:
+            tableName: person
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+              - column:
+                  name: actual_salary
+                  type: DOUBLE
+              - column:
+                  name: employment_start_date
+                  type: DATE
+              - column:
+                  name: height
+                  type: DOUBLE
+                  constraints:
+                    nullable: false
+              - column:
+                  name: pension
+                  type: DOUBLE
+              - column:
+                  name: scholarship
+                  type: DOUBLE
+              - column:
+                  name: weight
+                  type: DOUBLE
+                  constraints:
+                    nullable: false
+              - column:
+                  name: year_of_study
+                  type: INT
+              - column:
+                  name: years_worked
+                  type: INT
+              - column:
+                  name: version
+                  type: BIGINT
+                  defaultValueNumeric: 0
+              - column:
+                  name: type
+                  type: VARCHAR(31)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: actual_job_position
+                  type: VARCHAR(255)
+              - column:
+                  name: email
+                  type: VARCHAR(255)
+              - column:
+                  name: field_of_study
+                  type: VARCHAR(255)
+              - column:
+                  name: first_name
+                  type: VARCHAR(255)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: graduated_university
+                  type: VARCHAR(255)
+              - column:
+                  name: last_name
+                  type: VARCHAR(255)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: pesel
+                  type: VARCHAR(255)
+        - addUniqueConstraint:
+            tableName: person
+            columnNames: email
+            constraintName: UC_PERSON_EMAIL
+        - addUniqueConstraint:
+            tableName: person
+            columnNames: pesel
+            constraintName: UC_PERSON_PESEL
+
+  - changeSet:
+      id: 2
+      author: wiktor
+      changes:
+        - createTable:
+            tableName: import_status
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+              - column:
+                  name: created_date
+                  type: DATETIME(6)
+              - column:
+                  name: duration
+                  type: BIGINT
+              - column:
+                  name: end_date
+                  type: DATETIME(6)
+              - column:
+                  name: failed_rows
+                  type: BIGINT
+              - column:
+                  name: processed_rows
+                  type: BIGINT
+              - column:
+                  name: start_date
+                  type: DATETIME(6)
+              - column:
+                  name: total_rows
+                  type: BIGINT
+              - column:
+                  name: file_name
+                  type: VARCHAR(255)
+              - column:
+                  name: status
+                  type: ENUM('COMPLETED', 'CREATED', 'FAILED', 'RUNNING')
+
+  - changeSet:
+      id: 3
+      author: wiktor
+      changes:
+        - createTable:
+            tableName: employee_job_position
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+              - column:
+                  name: employment_end_date
+                  type: DATE
+              - column:
+                  name: employment_start_date
+                  type: DATE
+              - column:
+                  name: salary
+                  type: DOUBLE
+                  constraints:
+                    nullable: false
+              - column:
+                  name: employee_id
+                  type: BIGINT
+              - column:
+                  name: position_name
+                  type: VARCHAR(255)
+        - addForeignKeyConstraint:
+            baseTableName: employee_job_position
+            baseColumnNames: employee_id
+            referencedTableName: person
+            referencedColumnNames: id
+            constraintName: FKqip7mh2wsdrr9rp49on8kw751

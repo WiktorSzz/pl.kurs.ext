@@ -1,0 +1,150 @@
+Student,Tomasz,Zalewski,99051081540,167.01,82.46,tomasz.zalewski@testmail.com,AGH,2,Mathematics,1494.02
+Employee,Magdalena,Krawczyk,80100212628,160.04,77.78,magdalena.krawczyk@testmail.com,2019-02-21,Software Engineer,4662.28,
+Student,Paweł,Chmielewski,26012659138,179.41,75.66,paweł.chmielewski1@testmail.com,AGH,5,Biology,1640.11
+Pensioner,Magdalena,Wiśniewski,22062568893,179.41,64.28,magdalena.wiśniewski1@email.com,2788.78,59,,
+Employee,Marek,Nowicka,5100292343,186.02,74.85,marek.nowicka@email.com,2021-09-08,Data Analyst,6214.09,
+Pensioner,Joanna,Lewandowska,28120510335,169.56,51.54,joanna.lewandowska2@example.com,2782.44,57,,
+Student,Joanna,Nowicka,54101104128,174.5,82.56,joanna.nowicka2@example.com,PW,5,Engineering,1007.26
+Pensioner,Karolina,Krawczyk,96051399842,155.9,55.52,karolina.krawczyk@example.com,2739.52,20,,
+Pensioner,Krzysztof,Baran,26010957742,164.57,64.24,krzysztof.baran@testmail.com,2291.52,30,,
+Pensioner,Marek,Chmielewski,91070787081,158.86,70.15,marek.chmielewski@testmail.com,3456.67,26,,
+Pensioner,Magdalena,Nowicka,17122469900,162.33,73.64,magdalena.nowicka@email.com,2806.01,33,,
+Employee,Joanna,Lewandowska,59052542673,185.32,81.21,joanna.lewandowska@example.com,2020-05-18,Data Analyst,4655.56,
+Pensioner,Paweł,Wiśniewski,78070968542,166.18,53.55,paweł.wiśniewski2@testmail.com,3354.56,54,,
+Pensioner,Karolina,Lewandowska,7020333703,161.15,77.3,karolina.lewandowska@testmail.com,2846.78,25,,
+Employee,Joanna,Nowicka,25101073927,172.47,74.67,joanna.nowicka@example.com,2018-05-11,Software Engineer,5581.69,
+Employee,Magdalena,Nowicka,78110809896,187.21,87.96,magdalena.nowicka@testmail.com,2016-01-28,Software Engineer,4586.39,
+Student,Magdalena,Nowicka,65102797503,171.64,83.55,magdalena.nowicka4@example.com,Politechnika Gdańska,3,Engineering,1898.42
+Pensioner,Paweł,Krawczyk,75040626348,174.85,77.16,paweł.krawczyk@email.com,2544.95,23,,
+Employee,Joanna,Baran,58112117208,184.73,88.49,joanna.baran@email.com,2020-11-18,Product Manager,6228.24,
+Pensioner,Krzysztof,Chmielewski,82110973731,153.55,62.52,krzysztof.chmielewski1@email.com,3238.2,24,,
+Pensioner,Joanna,Chmielewski,52040219913,166.57,62.08,joanna.chmielewski@testmail.com,2149.69,27,,
+Student,Ewa,Krawczyk,50031984867,186.74,64.04,ewa.krawczyk@example.com,PW,5,Engineering,1382.55
+Pensioner,Joanna,Wiśniewski,41091770366,155.09,58.82,joanna.wiśniewski@email.com,3386.85,47,,
+Student,Marek,Lewandowska,31041528298,161.92,75.49,marek.lewandowska@testmail.com,PW,5,Engineering,1710.8
+Employee,Paweł,Baran,25050216835,172.9,58.69,paweł.baran@example.com,2013-12-11,HR Manager,5599.41,
+Student,Karolina,Krawczyk,60092775278,178.42,70.14,karolina.krawczyk1@example.com,UW,2,Literature,1693.72
+Pensioner,Joanna,Krawczyk,66121612267,175.3,70.53,joanna.krawczyk@testmail.com,3492.2,30,,
+Student,Krzysztof,Wiśniewski,37012115444,180.45,77.81,krzysztof.wiśniewski1@example.com,PW,5,Mathematics,1807.36
+Pensioner,Tomasz,Wiśniewski,27050329220,176.17,59.81,tomasz.wiśniewski@email.com,2236.83,59,,
+Employee,Joanna,Wiśniewski,7120247108,168.41,85.37,joanna.wiśniewski@example.com,2010-10-05,Product Manager,6518.04,
+Pensioner,Joanna,Krawczyk,13061243493,162.45,70.63,joanna.krawczyk1@testmail.com,3203.49,37,,
+Employee,Marek,Krawczyk,16022745762,183.58,63.31,marek.krawczyk@email.com,2022-09-02,HR Manager,4296.46,
+Employee,Paweł,Nowicka,62090920454,169.05,69.95,paweł.nowicka@example.com,2013-07-01,Product Manager,6811.76,
+Pensioner,Krzysztof,Nowicka,34050647552,153.04,58.53,krzysztof.nowicka1@example.com,2147.2,40,,
+Employee,Magdalena,Lewandowska,1040767561,180.11,53.46,magdalena.lewandowska@email.com,2016-12-11,Data Analyst,6166.98,
+Student,Magdalena,Baran,73081564458,167.15,54.62,magdalena.baran@example.com,Politechnika Gdańska,4,Literature,1687.68
+Employee,Ewa,Zalewski,25030470124,186.35,62.48,ewa.zalewski@testmail.com,2013-11-18,Product Manager,4380.85,
+Employee,Joanna,Chmielewski,70081913070,161.62,62.81,joanna.chmielewski@email.com,2020-09-22,Software Engineer,6896.92,
+Pensioner,Ewa,Lewandowska,93081552102,172.7,79.74,ewa.lewandowska@testmail.com,2542.59,53,,
+Employee,Krzysztof,Wiśniewski,39030694793,170.27,56.43,krzysztof.wiśniewski@example.com,2018-11-04,Software Engineer,5008.8,
+Student,Marek,Baran,30050875426,172.42,75.88,marek.baran1@email.com,UJ,5,Literature,1946.95
+Student,Magdalena,Nowicka,2110590217,182.6,57.24,magdalena.nowicka5@example.com,AGH,5,Engineering,1232.15
+Student,Paweł,Zalewski,24122419330,169.75,51.67,paweł.zalewski@testmail.com,UW,1,Biology,1238.38
+Student,Krzysztof,Krawczyk,66011978462,182.3,62.88,krzysztof.krawczyk@example.com,AGH,2,Biology,1906.56
+Pensioner,Joanna,Chmielewski,5041495051,150.59,65.31,joanna.chmielewski1@email.com,2181.4,38,,
+Employee,Tomasz,Lewandowska,97040256476,187.91,51.73,tomasz.lewandowska@email.com,2013-05-18,Data Analyst,5548.77,
+Employee,Karolina,Nowicka,69051739767,173.38,57.5,karolina.nowicka1@email.com,2021-10-12,Software Engineer,5138.93,
+Student,Magdalena,Zalewski,43070487678,179.23,83.75,magdalena.zalewski@example.com,AGH,2,Biology,1735.5
+Student,Ewa,Chmielewski,13030523062,171.95,84.57,ewa.chmielewski1@testmail.com,PW,1,Literature,1726.6
+Student,Tomasz,Chmielewski,99052145840,176.44,78.98,tomasz.chmielewski2@testmail.com,AGH,3,Computer Science,1487.21
+Pensioner,Ewa,Wiśniewski,39011318731,151.79,69.18,ewa.wiśniewski1@testmail.com,3497.57,46,,
+Pensioner,Joanna,Nowicka,2111625407,168.38,51.65,joanna.nowicka1@testmail.com,2554.52,31,,
+Student,Magdalena,Baran,3112127724,166.2,51.3,magdalena.baran@testmail.com,AGH,2,Mathematics,1272.54
+Employee,Krzysztof,Nowicka,14040486503,180.74,69.14,krzysztof.nowicka@example.com,2016-06-05,Software Engineer,6413.81,
+Pensioner,Krzysztof,Wiśniewski,90080724659,155.46,72.14,krzysztof.wiśniewski@testmail.com,2881.32,53,,
+Student,Karolina,Nowicka,38121628670,179.14,60.52,karolina.nowicka@example.com,UJ,2,Engineering,1242.01
+Employee,Tomasz,Krawczyk,38021472558,164.44,55.4,tomasz.krawczyk@example.com,2022-09-07,Software Engineer,4597.82,
+Student,Paweł,Krawczyk,3072233355,165.56,54.98,paweł.krawczyk1@testmail.com,UJ,2,Computer Science,1146.26
+Student,Krzysztof,Chmielewski,77062899825,184.62,85.58,krzysztof.chmielewski@example.com,Politechnika Gdańska,5,Mathematics,1256.78
+Pensioner,Ewa,Nowicka,74091625803,172.55,64.02,ewa.nowicka@example.com,2447.34,39,,
+Employee,Tomasz,Nowicka,91062765118,187.61,69.77,tomasz.nowicka@email.com,2021-07-06,HR Manager,6172.85,
+Pensioner,Karolina,Wiśniewski,39120232687,162.87,56.56,karolina.wiśniewski@testmail.com,3077.86,23,,
+Student,Krzysztof,Wiśniewski,77041295722,173.93,84.22,krzysztof.wiśniewski@email.com,PW,3,Engineering,1337.08
+Student,Krzysztof,Nowicka,35120443812,165.17,73.11,krzysztof.nowicka@testmail.com,Politechnika Gdańska,3,Literature,1388.36
+Pensioner,Karolina,Zalewski,92010893675,161.83,77.23,karolina.zalewski@example.com,3333.29,36,,
+Student,Krzysztof,Baran,90061219220,167.05,66.05,krzysztof.baran1@testmail.com,Politechnika Gdańska,2,Biology,1924.5
+Employee,Paweł,Krawczyk,56120483527,166.72,76.06,paweł.krawczyk@testmail.com,2022-10-17,Product Manager,6219.69,
+Student,Joanna,Baran,97020701325,162.04,87.87,joanna.baran2@email.com,AGH,4,Computer Science,1040.49
+Pensioner,Joanna,Nowicka,41120332099,167.13,71.17,joanna.nowicka1@example.com,3216.33,56,,
+Student,Magdalena,Chmielewski,38110870958,184.9,57.84,magdalena.chmielewski@example.com,UW,2,Mathematics,1087.82
+Employee,Ewa,Krawczyk,52101193878,174.07,89.38,ewa.krawczyk@email.com,2020-05-03,Software Engineer,4593.45,
+Pensioner,Joanna,Nowicka,34031111042,157.36,76.9,joanna.nowicka@testmail.com,2737.2,36,,
+Employee,Paweł,Wiśniewski,24091150838,188.38,78.62,paweł.wiśniewski@email.com,2021-02-11,HR Manager,6087.61,
+Employee,Tomasz,Zalewski,41020616118,178.56,70.24,tomasz.zalewski@example.com,2011-09-17,Software Engineer,6879.44,
+Pensioner,Joanna,Chmielewski,94111607214,152.66,57.83,joanna.chmielewski@example.com,2371.95,43,,
+Pensioner,Joanna,Lewandowska,96122832080,175.1,55.31,joanna.lewandowska3@example.com,2095.08,21,,
+Employee,Krzysztof,Chmielewski,9042292957,160.94,59.37,krzysztof.chmielewski@email.com,2016-03-01,HR Manager,6539.79,
+Pensioner,Joanna,Zalewski,52091510371,175.57,71.31,joanna.zalewski@example.com,2915.58,20,,
+Employee,Karolina,Chmielewski,23062403911,187.88,87.3,karolina.chmielewski@email.com,2010-10-21,Software Engineer,5477.85,
+Pensioner,Tomasz,Wiśniewski,61051613456,161.13,51.93,tomasz.wiśniewski1@email.com,2145.73,34,,
+Student,Ewa,Wiśniewski,90011771477,188.43,68.63,ewa.wiśniewski2@testmail.com,PW,5,Mathematics,1051.1
+Student,Paweł,Baran,34092029265,168.93,86.49,paweł.baran1@example.com,UJ,5,Literature,1052.99
+Employee,Karolina,Nowicka,54111853276,173.47,55.98,karolina.nowicka@email.com,2021-11-24,Software Engineer,6932.82,
+Pensioner,Ewa,Baran,99070872848,174.52,50.42,ewa.baran1@email.com,2301.48,41,,
+Employee,Tomasz,Zalewski,34080151420,187.37,74.46,tomasz.zalewski@email.com,2017-06-15,HR Manager,6533.56,
+Employee,Karolina,Zalewski,5011174371,167.88,89.21,karolina.zalewski@email.com,2013-07-18,Product Manager,6492,
+Pensioner,Tomasz,Chmielewski,89060289022,166.49,74.67,tomasz.chmielewski1@testmail.com,3338.95,33,,
+Student,Marek,Nowicka,39042283790,161.15,88.88,marek.nowicka@testmail.com,AGH,5,Mathematics,1082
+Employee,Karolina,Baran,75110142047,168.72,82.96,karolina.baran@testmail.com,2018-05-03,Product Manager,4188.59,
+Employee,Tomasz,Lewandowska,4110153181,174.51,52.36,tomasz.lewandowska@example.com,2017-08-06,Data Analyst,5845.64,
+Employee,Magdalena,Lewandowska,25092243676,182.73,73.66,magdalena.lewandowska@testmail.com,2015-08-07,HR Manager,5716.8,
+Pensioner,Ewa,Wiśniewski,35070302086,178.03,72.13,ewa.wiśniewski@email.com,2209.09,40,,
+Pensioner,Marek,Baran,15022849349,168.31,72.5,marek.baran@email.com,2603.98,21,,
+Employee,Ewa,Lewandowska,8080920063,182.29,75.42,ewa.lewandowska@example.com,2017-07-25,Data Analyst,6778.33,
+Pensioner,Paweł,Chmielewski,5022618781,152.27,62.42,paweł.chmielewski@testmail.com,2875.65,27,,
+Student,Tomasz,Krawczyk,11012119101,169.17,69,tomasz.krawczyk@testmail.com,AGH,2,Biology,1034.06
+Pensioner,Magdalena,Nowicka,53111870741,161.71,79.05,magdalena.nowicka2@example.com,2905.05,45,,
+Employee,Marek,Krawczyk,53030609572,168.91,76.62,marek.krawczyk@example.com,2015-12-06,Software Engineer,5622.28,
+Student,Marek,Krawczyk,31101760916,188.17,66.94,marek.krawczyk1@example.com,UJ,4,Mathematics,1729.12
+Student,Joanna,Lewandowska,48010103681,165.86,66.09,joanna.lewandowska4@example.com,Politechnika Gdańska,2,Literature,1477.71
+Employee,Magdalena,Wiśniewski,87041632372,178.33,56.12,magdalena.wiśniewski@email.com,2018-12-18,Software Engineer,6209.47,
+Student,Ewa,Baran,18061365908,179.48,80,ewa.baran2@email.com,UJ,3,Literature,1715.26
+Student,Tomasz,Zalewski,25042170345,163.74,68.61,tomasz.zalewski2@email.com,AGH,2,Literature,1347.18
+Student,Paweł,Zalewski,95121471526,164.57,86.59,paweł.zalewski@example.com,AGH,2,Computer Science,1792.2
+Student,Paweł,Krawczyk,11082121373,162.03,57.08,paweł.krawczyk2@testmail.com,Politechnika Gdańska,4,Computer Science,1682.15
+Employee,Joanna,Nowicka,24050998176,179.4,61.6,joanna.nowicka@email.com,2022-08-19,HR Manager,4684.86,
+Student,Ewa,Krawczyk,77010141738,171.36,84.12,ewa.krawczyk1@email.com,UJ,5,Computer Science,1848.42
+Student,Karolina,Zalewski,25070525332,179.24,74.14,karolina.zalewski@testmail.com,UW,2,Literature,1809.65
+Employee,Marek,Baran,49071070041,164.93,60.32,marek.baran@example.com,2015-08-11,Data Analyst,4318.12,
+Student,Magdalena,Nowicka,37102345212,162.88,69.31,magdalena.nowicka1@testmail.com,UJ,5,Mathematics,1914.45
+Pensioner,Krzysztof,Zalewski,1121745105,167.83,69.27,krzysztof.zalewski@email.com,3485.77,50,,
+Student,Karolina,Chmielewski,12041279942,171.09,53.07,karolina.chmielewski@example.com,AGH,5,Computer Science,1228.31
+Pensioner,Magdalena,Nowicka,99112279307,161.81,78.93,magdalena.nowicka1@example.com,3273.98,30,,
+Student,Joanna,Baran,40052791939,187.55,62.8,joanna.baran@testmail.com,PW,3,Biology,1599.23
+Pensioner,Joanna,Baran,78111815929,159.56,55.84,joanna.baran1@email.com,3330.37,45,,
+Pensioner,Marek,Baran,97041030680,151.05,73.3,marek.baran@testmail.com,2761.26,48,,
+Employee,Paweł,Nowicka,12100753534,161.14,69.64,paweł.nowicka@testmail.com,2020-12-10,Software Engineer,4450.27,
+Pensioner,Tomasz,Wiśniewski,9010660180,152.19,73.7,tomasz.wiśniewski@testmail.com,2664.76,50,,
+Employee,Paweł,Lewandowska,40011087151,173.53,59.11,paweł.lewandowska@testmail.com,2012-09-23,Data Analyst,4899.28,
+Pensioner,Ewa,Zalewski,13051200636,155.83,62.38,ewa.zalewski@example.com,2264.44,39,,
+Employee,Marek,Zalewski,23022647405,178.26,67,marek.zalewski@example.com,2021-02-07,Software Engineer,5887.57,
+Employee,Paweł,Wiśniewski,90101628878,189.22,71.19,paweł.wiśniewski@testmail.com,2017-04-05,Software Engineer,5330.52,
+Employee,Krzysztof,Nowicka,32082869439,162.08,73.03,krzysztof.nowicka@email.com,2010-07-17,Product Manager,4730.8,
+Employee,Ewa,Wiśniewski,54072798478,183.55,70.22,ewa.wiśniewski@testmail.com,2015-04-13,Data Analyst,6070.06,
+Pensioner,Ewa,Nowicka,3071114635,173.51,50.03,ewa.nowicka@email.com,2052.11,52,,
+Student,Paweł,Krawczyk,71062311082,186.27,72.09,paweł.krawczyk@example.com,UW,5,Biology,1326.11
+Employee,Magdalena,Nowicka,7011593815,187.66,50.7,magdalena.nowicka@example.com,2019-11-18,Product Manager,5396.12,
+Student,Krzysztof,Nowicka,82022655106,165.7,83.71,krzysztof.nowicka1@email.com,AGH,4,Biology,1648.1
+Student,Ewa,Baran,41071740259,178.77,84.85,ewa.baran@example.com,Politechnika Gdańska,5,Literature,1592.68
+Pensioner,Joanna,Lewandowska,6091547564,172.6,59.78,joanna.lewandowska1@example.com,2352.09,59,,
+Student,Karolina,Baran,35061085126,180.92,63.05,karolina.baran@example.com,AGH,3,Mathematics,1836.25
+Student,Paweł,Krawczyk,94062121641,173.07,64.63,paweł.krawczyk3@testmail.com,PW,1,Biology,1517.71
+Pensioner,Marek,Wiśniewski,97101528822,179.44,65.06,marek.wiśniewski@testmail.com,2767.94,51,,
+Employee,Tomasz,Nowicka,45031493788,166.91,83.22,tomasz.nowicka@example.com,2020-12-25,Data Analyst,4887.88,
+Employee,Krzysztof,Baran,32020185254,185.17,52.98,krzysztof.baran@example.com,2011-12-13,Product Manager,5991.67,
+Employee,Krzysztof,Lewandowska,76081662681,172.81,84.77,krzysztof.lewandowska@testmail.com,2011-10-12,Data Analyst,4955.47,
+Student,Magdalena,Wiśniewski,91111822088,175.72,67.92,magdalena.wiśniewski2@email.com,UW,4,Computer Science,1377.07
+Pensioner,Ewa,Chmielewski,19011913226,156.22,58.94,ewa.chmielewski@testmail.com,2181.67,39,,
+Employee,Tomasz,Zalewski,77071852013,184.51,79.37,tomasz.zalewski1@email.com,2016-09-27,Data Analyst,6330.57,
+Pensioner,Paweł,Wiśniewski,43112845750,169.27,63.16,paweł.wiśniewski1@testmail.com,2190.01,27,,
+Employee,Paweł,Baran,77030261185,189.71,57.14,paweł.baran@testmail.com,2012-12-27,Product Manager,6305.19,
+Employee,Ewa,Baran,90090746468,188.46,84.47,ewa.baran@email.com,2010-06-20,Product Manager,5768.57,
+Employee,Marek,Wiśniewski,20092485992,181.73,67.79,marek.wiśniewski@email.com,2020-08-20,HR Manager,6093.74,
+Student,Karolina,Baran,12111419941,172.14,75.59,karolina.baran@email.com,AGH,1,Engineering,1080.39
+Pensioner,Joanna,Krawczyk,38102612509,173.22,64.23,joanna.krawczyk@example.com,2562.28,45,,
+Student,Ewa,Chmielewski,8012811754,172.1,60.35,ewa.chmielewski2@testmail.com,UW,5,Literature,1651.16
+Pensioner,Tomasz,Chmielewski,46012009686,172.68,58.01,tomasz.chmielewski@testmail.com,3188.74,53,,
+Student,Magdalena,Nowicka,32011308844,185.85,63.62,magdalena.nowicka3@example.com,Politechnika Gdańska,5,Computer Science,1849.64
+Student,Krzysztof,Krawczyk,8012404402,164.55,76.63,krzysztof.krawczyk@testmail.com,Politechnika Gdańska,4,Literature,1599.97
+Pensioner,Krzysztof,Chmielewski,26042494964,162.01,52.14,krzysztof.chmielewski2@email.com,3255.23,57,,
