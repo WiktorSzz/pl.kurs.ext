@@ -63,7 +63,7 @@ public abstract class Person implements Serializable, Identificationable {
         this.height = person.getHeight();
         this.weight = person.getWeight();
         this.email = person.getEmail();
-       this.version = person.getVersion();
+        this.version = person.getVersion();
     }
 
 
